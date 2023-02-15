@@ -1,7 +1,7 @@
 ### Live - https://portfolio-r8hogcbzp-flicker786.vercel.app/
 
 
-![thumbnail]<img width="1673" alt="Screenshot 2023-02-16 at 12 01 49 AM" src="https://user-images.githubusercontent.com/69352034/219120911-287474fe-1cf8-40c3-84c9-faf57f096943.png">
+<img width="1673" alt="Screenshot 2023-02-16 at 12 01 49 AM" src="https://user-images.githubusercontent.com/69352034/219120911-287474fe-1cf8-40c3-84c9-faf57f096943.png">
 
 
 
